@@ -150,7 +150,7 @@ lib/
 
 
 
-[Download APK] ([Download APK](https://github.com/emanfazal/evencir_test/releases/download/v1.0.0/app-release.apk)
+[Download APK] ([Download APK](https://github.com/emanfazal/evencir_test/releases/download/app-release.apk)
 
 
 
