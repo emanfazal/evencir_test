@@ -115,7 +115,20 @@ lib/
 - **utils/** – App-wide helpers, colors, constants  
 
 ---
+##  APK Download
 
+
+
+
+ ([Download APK](https://drive.google.com/file/d/1Om1-2JrrjDpyWjHlLyQnPZg2LhYxTGWP/view?usp=drivesdk)
+)
+
+##  App Demo Video
+
+
+
+
+[Watch Demo Video](https://drive.google.com/file/d/1Hzj7A1QUQ_EavVZzCL83svaiIYzqqh-H/view?usp=drivesdk)
 ##  Screenshots
 
 > Screenshots inside a `ScreenShots/` folder:
@@ -133,25 +146,13 @@ lib/
 
 ---
 
-##  App Demo Video
-
-
-
-
-[Watch Demo Video](https://drive.google.com/file/d/1Hzj7A1QUQ_EavVZzCL83svaiIYzqqh-H/view?usp=drivesdk)
 
 
 
 
 ---
 
-##  APK Download
 
-
-
-
- ([Download APK](https://drive.google.com/file/d/1Om1-2JrrjDpyWjHlLyQnPZg2LhYxTGWP/view?usp=drivesdk)
-)
 
 
 ---
