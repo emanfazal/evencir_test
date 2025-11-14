@@ -139,7 +139,7 @@ lib/
 
 ```
 
-[Watch Demo Video](https://drive.google.com/file/d/1Hzj7A1QUQ_EavVZzCL83svaiIYzqqh-H/view?usp=drivesdk)
+[Watch Demo Video] (https://drive.google.com/file/d/1Hzj7A1QUQ_EavVZzCL83svaiIYzqqh-H/view?usp=drivesdk)
 
 ```
 
@@ -150,7 +150,7 @@ lib/
 
 ```
 
-[Download APK](https://github.com/emanfazal/evencir_test/releases/download/app-release.apk)
+[Download APK] (https://github.com/emanfazal/evencir_test/releases/download/app-release.apk)
 
 ```
 
