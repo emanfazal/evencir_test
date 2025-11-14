@@ -122,13 +122,13 @@ lib/
 
 ```
 
-![Home Screen](screenshots/Home.jpg)
-![Home Screen](screenshots/Home1.jpg)
-![Plan Screen](screenshots/Plan.jpg)
-![Mood Screen](screenshots/Mood.jpg)
-![Mood Screen](screenshots/MoodContent.jpg)
-![Mood Screen](screenshots/MoodHappy.jpg)
-![Mood Screen](screenshots/MoodPeaceful.jpg)
+![Home Screen](Screenshots/Home.jpg)
+![Home Screen](Screenshots/Home1.jpg)
+![Plan Screen](Screenshots/Plan.jpg)
+![Mood Screen](Screenshots/Mood.jpg)
+![Mood Screen](Screenshots/MoodContent.jpg)
+![Mood Screen](Screenshots/MoodHappy.jpg)
+![Mood Screen](Screenshots/MoodPeaceful.jpg)
 
 ```
 
