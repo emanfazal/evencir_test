@@ -118,17 +118,17 @@ lib/
 
 ##  Screenshots
 
-> Add your screenshots inside a `screenshots/` folder and link them here:
+> Screenshots inside a `ScreenShots/` folder:
 
 ```
 
-![Home Screen](Screenshots/Home.jpg)
-![Home Screen](Screenshots/Home1.jpg)
-![Plan Screen](Screenshots/Plan.jpg)
+![Home Screen](ScreenShots/Home.jpg)
+![Home Screen](ScreenShots/Home1.jpg)
+![Plan Screen](ScreenShots/Plan.jpg)
 ![Mood Screen](Screenshots/Mood.jpg)
-![Mood Screen](Screenshots/MoodContent.jpg)
-![Mood Screen](Screenshots/MoodHappy.jpg)
-![Mood Screen](Screenshots/MoodPeaceful.jpg)
+![Mood Screen](ScreenShots/MoodContent.jpg)
+![Mood Screen](ScreenShots/MoodHappy.jpg)
+![Mood Screen](ScreenShots/MoodPeaceful.jpg)
 
 ```
 
