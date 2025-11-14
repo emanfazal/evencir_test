@@ -150,8 +150,8 @@ lib/
 
 
 
-[Download APK] ([Download APK](https://github.com/emanfazal/evencir_test/releases/download/app-release.apk)
-
+ ([Download APK](https://drive.google.com/file/d/1Om1-2JrrjDpyWjHlLyQnPZg2LhYxTGWP/view?usp=drivesdk)
+)
 
 
 ---
