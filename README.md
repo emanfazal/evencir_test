@@ -120,39 +120,38 @@ lib/
 
 > Screenshots inside a `ScreenShots/` folder:
 
-```
 
 ![Home Screen](ScreenShots/Home.jpg)
-![Home Screen](ScreenShots/Home1.jpg)
+![Home Screen 2](ScreenShots/Home1.jpg)
 ![Plan Screen](ScreenShots/Plan.jpg)
-![Mood Screen](Screenshots/Mood.jpg)
-![Mood Screen](ScreenShots/MoodContent.jpg)
-![Mood Screen](ScreenShots/MoodHappy.jpg)
-![Mood Screen](ScreenShots/MoodPeaceful.jpg)
+![Mood Screen](ScreenShots/Mood.jpg)
+![Mood – Content](ScreenShots/MoodContent.jpg)
+![Mood – Happy](ScreenShots/MoodHappy.jpg)
+![Mood – Peaceful](ScreenShots/MoodPeaceful.jpg)
 
-```
+
 
 ---
 
 ##  App Demo Video
 
 
-```
 
-[Watch Demo Video] (https://drive.google.com/file/d/1Hzj7A1QUQ_EavVZzCL83svaiIYzqqh-H/view?usp=drivesdk)
 
-```
+[Watch Demo Video](https://drive.google.com/file/d/1Hzj7A1QUQ_EavVZzCL83svaiIYzqqh-H/view?usp=drivesdk)
+
+
+
 
 ---
 
 ##  APK Download
 
 
-```
+
 
 [Download APK] (https://github.com/emanfazal/evencir_test/releases/download/app-release.apk)
 
-```
 
 ---
 
