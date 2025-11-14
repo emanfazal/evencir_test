@@ -50,15 +50,9 @@ get: ^4.6.6
 ```
 State management, route handling, and dependency injection.
 
-### **2. intl**
-```
 
-intl: ^0.19.0
 
-```
-Used for date formatting (week labels, day names, etc.).
-
-### **3. sleek_circular_slider**
+### **2. sleek_circular_slider**
 ```
 
 sleek_circular_slider: ^2.0.1
@@ -66,7 +60,7 @@ sleek_circular_slider: ^2.0.1
 ```
 Used for mood slider knob movement.
 
-### **4. syncfusion_flutter_calendar**
+### **3. syncfusion_flutter_calendar**
 ```
 
 syncfusion_flutter_calendar: ^31.2.10
@@ -74,7 +68,7 @@ syncfusion_flutter_calendar: ^31.2.10
 ```
 Used for drag-and-drop event handling (Plan screen).
 
-### **5. calendar_view**
+### **4. calendar_view**
 ```
 
 calendar_view: ^1.0.5
