@@ -38,7 +38,7 @@ class HomeView extends GetView<HomeController> {
 
   @override
   Widget build(BuildContext context) {
-    // decide icon based on current time
+  
     final int hour = DateTime.now().hour;
     final bool isDayTime = hour >= 6 && hour < 18;
 
